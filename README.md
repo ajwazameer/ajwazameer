@@ -1,8 +1,9 @@
 # Hi there! I'm Ajwa Zameer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;AI/ML+LLMS+and+GEN+AI%2FML)](https://git.io/typing-svg)
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;AI/ML+LLMs+and+GEN+AI%2FML)](https://git.io/typing-svg)
 
----
+--- -->
 
 ## About Me
 
@@ -40,7 +41,7 @@ MERN Developer, building real products for real clients while leaning hard into 
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | Maintaining a strong CGPA while balancing coursework, freelance projects, and self-study. | Delivered a full e-commerce platform end-to-end for a private streetwear brand client. | Practicing DSA in C++ daily via LeetCode / NeetCode as part of internship prep. | Actively building with LLM APIs and LangChain, moving from full-stack toward AI engineering. |
 
---- --> -->
+--- -->
 
 ## 📊 GITHUB STATS
 
