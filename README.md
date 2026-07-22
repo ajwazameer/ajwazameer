@@ -16,7 +16,7 @@ MERN Developer, building real products for real clients while leaning hard into 
 
 ---
 
-## ⭐ LATEST PROJECTS
+## LATEST PROJECTS
 
 | **OrderBot**                                                                                                                                                                                                                                                                                           | **Absolute Clothing**                                                                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,12 +32,12 @@ MERN Developer, building real products for real clients while leaning hard into 
 | **[Sightline AI](https://github.com/ajwazameer/sightline-ai)**<br/>A voice-guided assistant for visually impaired users, using real-time camera input and LLM-powered scene description. Migrated to Groq's Llama 4 Scout for faster, rate-limit-free inference, with a custom Supabase backend and a dedicated "Detect Obstacle" mode.                                                                                  | **[Zaitoon](https://zaitoonpk.com)**<br/>A live, full-stack restaurant ordering platform — menu management, orders, reviews wall, admin analytics dashboard, and a meal customizer, built end-to-end and co-built with a teammate.                                                                                              | A machine learning model using XGBoost to flag fraudulent credit card transactions.                                                                                                                        |
 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-orange?style=flat-square&logo=groq&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC0000?style=flat-square&logo=xgboost&logoColor=white) |
 
-<!-- > 👉 See pinned repos below for live demos and code!
+> 👉 See pinned repos below for live demos and code!
 
 ## 🏆 HIGHLIGHTS
 
-| 🎓 CGPA 3.78 | 💼 Real Client Work | 🧩 Daily DSA Grind | 🤖 AI/ML Focus |
-|---|---|---|---|
+| 🎓 CGPA 3.78                                                                              | 💼 Real Client Work                                                                    | 🧩 Daily DSA Grind                                                              | 🤖 AI/ML Focus                                                                               |
+| ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | Maintaining a strong CGPA while balancing coursework, freelance projects, and self-study. | Delivered a full e-commerce platform end-to-end for a private streetwear brand client. | Practicing DSA in C++ daily via LeetCode / NeetCode as part of internship prep. | Actively building with LLM APIs and LangChain, moving from full-stack toward AI engineering. |
 
 --- -->
@@ -55,7 +55,7 @@ MERN Developer, building real products for real clients while leaning hard into 
 
 ---
 
-## CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 
 ![github contribution grid snake animation](https://github.com/ajwazameer/ajwazameer/raw/output/github-contribution-grid-snake-dark.svg)
 
